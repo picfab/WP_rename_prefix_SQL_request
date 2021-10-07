@@ -6,7 +6,7 @@ Modifiez $table_prefix
 
 ## 2. Copier le code
 
-Modifiez les variable suivates dans le [code source](https://raw.githubusercontent.com/picfab/WP_rename_prefix_SQL_request/main/rename%20prefix%20wordpress.sql) :
+Modifiez les variable suivates dans le [code source](https://raw.githubusercontent.com/picfab/WP_rename_prefix_SQL_request/main/rename%20prefix%20wordpress.sql){:target="_blank"} :
 
 - @database  = "NOM_DE_LA_BASE_DE_DONNEES";
 - @oldprefix = "wp_";
