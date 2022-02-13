@@ -1,8 +1,8 @@
 # MODIFIER Les 3 variables suivantes
 # puis copier coller le code dans votre phpMyAdmin
-SET @database  = "NOM_DE_LA_BASE_DE_DONNEES";
-SET @oldprefix = "wp_";
-SET @newprefix = "NOUVEAUX-PREFIX_";
+SET @database  = "local"; # NOM_DE_LA_BASE_DE_DONNEES
+SET @oldprefix = "wp_"; # ancien prefix
+SET @newprefix = "NOUVEAUX_PREFIX_"; # nouveau prefix
 # Fin
 
 SET @request = "";
